@@ -18,26 +18,30 @@ I craft **solid APIs with NestJS + TypeScript** and **C# .NET**, specializing in
 
 ## 💻 Tech Stack
 
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
-    <div style="text-align: left;">
-      <h4>Backend & Languages:</h4>
-      <p>NestJS | TypeScript | C# .NET</p>
-      
-      <h4>Databases:</h4>
-      <p>MongoDB | PostgreSQL | SQL Server</p>
-      
-      <h4>Infrastructure & DevOps:</h4>
-      <p>Docker | Kubernetes | AWS<br>Jenkins | GitHub Actions | CI/CD</p>
-      
-      <h4>Other Tools:</h4>
-      <p>Redis | Apache Kafka | NATS<br>OAuth2/JWT | N8N</p>
-    </div>
-    <div>
-      <img width="200" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
-    </div>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+
+**Backend & Languages:**
+- NestJS | TypeScript | C# .NET
+
+**Databases:**
+- MongoDB | PostgreSQL | SQL Server
+
+**Infrastructure & DevOps:**
+- Docker | Kubernetes | AWS
+- Jenkins | GitHub Actions | CI/CD
+
+**Other Tools:**
+- Redis | Apache Kafka | NATS
+- OAuth2/JWT | N8N
+
+    </td>
+    <td width="50%" align="center">
+      <img width="280" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
+    </td>
+  </tr>
+</table>
 
 ---
 
