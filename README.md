@@ -18,19 +18,36 @@ I craft **solid APIs with NestJS + TypeScript** and **C# .NET**, specializing in
 
 ## 💻 Tech Stack
 
-**Backend & Languages:**
-- NestJS | TypeScript | C# .NET
-
-**Databases:**
-- MongoDB | PostgreSQL | SQL Server
-
-**Infrastructure & DevOps:**
-- Docker | Kubernetes | AWS
-- Jenkins | GitHub Actions | CI/CD
-
-**Other Tools:**
-- Redis | Apache Kafka | NATS
-- OAuth2/JWT | N8N
+<table>
+  <tr>
+    <td>
+      <b>Backend & Languages:</b>
+      <ul>
+        <li>NestJS | TypeScript | C# .NET</li>
+      </ul>
+      
+      <b>Databases:</b>
+      <ul>
+        <li>MongoDB | PostgreSQL | SQL Server</li>
+      </ul>
+      
+      <b>Infrastructure & DevOps:</b>
+      <ul>
+        <li>Docker | Kubernetes | AWS</li>
+        <li>Jenkins | GitHub Actions | CI/CD</li>
+      </ul>
+      
+      <b>Other Tools:</b>
+      <ul>
+        <li>Redis | Apache Kafka | NATS</li>
+        <li>OAuth2/JWT | N8N</li>
+      </ul>
+    </td>
+    <td align="center">
+      <img width="200" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -48,13 +65,13 @@ I craft **solid APIs with NestJS + TypeScript** and **C# .NET**, specializing in
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/tu-linkedin">
+  <a href="[https://linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/brahiamrueda/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/tu-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="[https://x.com/tu-usuario-x](https://x.com/ismbrahiam?s=11)">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="mailto:tu-email@ejemplo.com">
+  <a href="vrbrahiam23@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
